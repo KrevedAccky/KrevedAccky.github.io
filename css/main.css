@@ -1,0 +1,6 @@
+.paw-rotated {
+	transform: rotate(25deg);
+	-ms-transform: rotate(25deg);
+	-webkit-transform: rotate(25deg);
+	margin-left: 5px;
+}
